@@ -1,0 +1,6 @@
+Version 1.0
+i)  Intial version Release
+
+Version 1.1
+i)  Done FrontPage Settings.
+ii) Remove Demo Content On Theme Activation.
